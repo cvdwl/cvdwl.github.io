@@ -1,0 +1,27 @@
+body {
+        background-color: #ffffff;
+}
+
+h1 {
+        color: #000000;
+        text-align: center;
+}
+
+
+li {
+        font-size: 14px;
+        text-align: left;
+        max-width: 600px;
+}
+
+body {
+        max-width: 800px;
+        font-size: 14px;
+}
+
+p {
+        font-size: 14px;
+        text-align: left;
+        max-width: 600px;
+}
+
